@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Findy!</string>
+    <string name="title_activity_main">Findy</string>
+
+    <string name="loading_title">Loading</string>
+    <string name="loading_description">Loading data…</string>
+    <string name="item_coordinates">Location (%1$.2f , %2$.2f) </string>
+    <string name="invalid_poi"> Invalid Poi </string>
+    <string name="marker_loading_address">Loading address…</string>
+    <string name="error_showing_map">Error showing map</string>
+    <string name="error_unresolved_address">Error unresolved address</string>
+    <string name="error_retrieving_poi_list">Error retrieving Poi list</string>
+    <string name="title_london_pois">List of pois</string>
+    <string name="title_you">You</string>
+    <string name="find_person">Find someone!</string>
+</resources>
